@@ -1,0 +1,4 @@
+http://stackoverflow.com/questions/23719912/incorrect-configuration-namenode-address-dfs-namenode-rpc-address-is-not-config
+https://hadoop.apache.org/docs/r1.2.1/file_system_shell.html#mkdir
+wget http://redrockdigimark.com/apachemirror/hadoop/common/hadoop-2.6.5/hadoop-2.6.5.tar.gz 
+http://askubuntu.com/questions/46930/how-can-i-set-up-password-less-ssh-login
