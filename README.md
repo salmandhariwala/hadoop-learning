@@ -1,4 +1,4 @@
-# Sample Hadoop MapReduce Programs
+# Hadoop MapReduce Programs
 
 - WordCount mapreduce example 
 - Analysis on grocery store transaction data using mapreduce
